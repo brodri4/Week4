@@ -1,0 +1,29 @@
+#searchmargin{
+    margin: 20px 20px 0 20px;
+}
+
+.list-group-item{
+    display: flex;
+    width: 30rem;
+    margin-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    margin:10px 0px 5px 20px
+}
+.name-of-title{
+    margin:20px 0px 30px 20px;    
+}
+
+input[type="checkbox"] {
+    zoom: 2.5;
+}
+
+.transparent{
+    background:transparent;
+    color: black;
+    border: 0;
+}
+
