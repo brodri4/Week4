@@ -1,0 +1,36 @@
+#title{
+    margin: 20px 0px 20px 20px;
+}
+
+.courseName{
+    border: black;
+    border-width: 0px 0px 3px 0px;
+    border-style: solid;
+    margin: 0px 100px 10px 20px;
+    
+}
+.list-group{
+    margin-bottom: 20px;
+}
+
+.list-group-item{
+    display: flexbox;
+    margin: 0px 20px 0px 20px;
+    border-width: 5px;
+    border-color: black;
+}
+
+.imgSize{
+    width: 10rem;
+    margin-right: 20px;
+}
+
+
+.itemTitle{
+    margin-right: 20px;
+}
+
+#buttons{
+    margin: 5px 0px 30px 20px
+}
+
