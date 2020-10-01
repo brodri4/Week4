@@ -1,0 +1,17 @@
+.list-group-item{
+    display: flexbox;
+    margin: 0px 20px 0px 20px;
+    border-width: 3px;
+    border-color: black;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.imgSize{
+    width: 20%;
+}
+
+#title{
+    margin: 20px 0px 20px 20px;
+}
